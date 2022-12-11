@@ -1,4 +1,3 @@
-# TrainTicketReservation
-Bachelor Mobile App
+# TrainReservation 
 
-Mobile Application made to be able to reserve and buy train tickets.
+### An application to make a reservation of train tickets
